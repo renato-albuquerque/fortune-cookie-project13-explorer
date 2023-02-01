@@ -1,6 +1,6 @@
 # Fortune Cookie - Project 13
 
-Project developed during the Rocketseat Course, Explorer Program, Class 06, Stage 05, in Jan/23.
+Project developed during the Rocketseat Course, Explorer Program, Class 06, Challenge Stage 05, in Jan/23.
 
 🔗 [Click here to access](https://renato-albuquerque.github.io/fortune-cookie-project13-explorer/)
 
