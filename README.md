@@ -4,7 +4,7 @@ Project developed during the Rocketseat Course, Explorer Program, Class 06, Stag
 
 🔗 [Click here to access](https://renato-albuquerque.github.io/fortune-cookie-project13-explorer/)
 
-![video](./files/Fortune Cookie.webm)
+https://drive.google.com/file/d/1m1DlxWIbpjJMWa9JM2DmlDRtjKDE22fm/view
 
 ## Technologies
 
